@@ -1,0 +1,12 @@
+{
+  "name": "99-practica1830a1900",
+  "version": "1.0.0",
+  "main": "01-ejercicioFS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

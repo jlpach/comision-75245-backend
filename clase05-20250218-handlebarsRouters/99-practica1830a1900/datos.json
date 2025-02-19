@@ -1,0 +1,16 @@
+{
+     "texto": "{\n  \"name\": \"99-practica1830a1900\",\n  \"version\": \"1.0.0\",\n  \"main\": \"01-ejercicioFS.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"description\": \"\"\n}\n",
+     "objeto": {
+          "name": "99-practica1830a1900",
+          "version": "1.0.0",
+          "main": "01-ejercicioFS.js",
+          "scripts": {
+               "test": "echo \"Error: no test specified\" && exit 1"
+          },
+          "keywords": [],
+          "author": "",
+          "license": "ISC",
+          "description": ""
+     },
+     "size": 243
+}
